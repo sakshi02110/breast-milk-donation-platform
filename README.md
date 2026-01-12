@@ -36,13 +36,11 @@ Frontend: React + TypeScript with Vite for fast, modern development
 
 UI/UX: Tailwind CSS + Shadcn/UI components for a clean, intuitive, and accessible interface
 
-Backend: Node.js + Express (or optional Django) for handling requests, authentication, and database operations
+Backend: Node.js + Express for handling requests, authentication, and database operations
 
-Database: MongoDB (NoSQL) for flexible storage of user profiles, donations, and requests
+Database: MongoDB for flexible storage of user profiles, donations, and requests
 
 Authentication: JWT or Firebase Authentication for secure login
-
-APIs: Google Maps API for location services, optional Twilio/Email APIs for notifications
 
 State Management: React Hooks and Context API for managing application state
 
@@ -53,13 +51,14 @@ Styling: Tailwind CSS + Shadcn/UI Components
 
 State Management: React Hooks / Context API
 
-Backend: Node.js + Express (or Django)
+Backend: Node.js + Express
 
-Database: MongoDB (Atlas) or SQL (optional)
+Database: MongoDB (Atlas)
 
 Authentication: JWT / Firebase
 
-API Integrations: Google Maps, Email/SMS notifications
+## 🌐 Website Preview
+
 
   ## Running the code
 
